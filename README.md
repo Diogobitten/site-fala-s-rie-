@@ -1,6 +1,6 @@
 # Fala Série! Olá, Bem vindo ao meu projeto realizado para o meu site do podcast.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image] ((https://live.staticflickr.com/65535/52810555729_3236d3d924_b.jpg))
 
 ## Ferramentas utilizadas:
 
