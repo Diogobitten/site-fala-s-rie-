@@ -2,6 +2,8 @@
 
 ![image](https://live.staticflickr.com/65535/52810555729_3236d3d924_b.jpg)
 
+## Acesse aqui: https://site-fala-serie.vercel.app/index.html
+
 ## Ferramentas utilizadas:
 
 * HTML
